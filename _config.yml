@@ -1,0 +1,14 @@
+layout_spectrum: 0.6939699151553214
+typography_spectrum: 0.29062579362653196
+color:
+  brandStrength: 0.049627771601080894
+  lightness: 0.7570853750221431
+  saturation: 0.1674583931453526
+  rhythmicContrast: 0.33090839232318103
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: devon
